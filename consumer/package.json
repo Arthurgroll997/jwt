@@ -1,0 +1,22 @@
+{
+  "name": "jwt",
+  "version": "1.0.0",
+  "description": "JWT Test API Consumer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthurgroll997/jwt.git"
+  },
+  "keywords": [
+    "jwt"
+  ],
+  "author": "Arthur Groll",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Arthurgroll997/jwt/issues"
+  },
+  "homepage": "https://github.com/Arthurgroll997/jwt#readme"
+}
